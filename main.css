@@ -66,7 +66,7 @@
 .search-btn {
   width: 6em;
   height: 4em;
-  color: yellow;
+  color: #bd8b02;
   font-size: 20px;
 }
 .search-bar input:invalid:not(:focus),
